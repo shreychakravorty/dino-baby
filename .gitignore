@@ -1,0 +1,14 @@
+# Secrets
+config.py
+
+# Data
+events.csv
+notes.csv
+bot.log
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
